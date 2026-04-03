@@ -120,8 +120,8 @@ End-to-end penetration testing report on a deliberately vulnerable application. 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sarthakraut003-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarthakraut003)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarthakraut003)
-[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sarthak-raut-587414278)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sarthakkraut003@gmail.com)
 
 </div>
 
